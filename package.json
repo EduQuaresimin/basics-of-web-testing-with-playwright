@@ -1,0 +1,21 @@
+{
+  "name": "basics-of-web-testing-with-playwright",
+  "version": "1.0.0",
+  "description": "👋 Welcome!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduQuaresimin/basics-of-web-testing-with-playwright.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EduQuaresimin/basics-of-web-testing-with-playwright/issues"
+  },
+  "homepage": "https://github.com/EduQuaresimin/basics-of-web-testing-with-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.2.0"
+  }
+}
