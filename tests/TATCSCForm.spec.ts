@@ -34,6 +34,6 @@ test.describe("TAT CSC form", () => {
 
     const successMessage = page.locator(".error");
     await expect(successMessage).toBeVisible();
-    await expect(successMessage).toHaveText("Validate the required fields!");
+    await expect(successMessage).toHaveText("Validate the required fields!!!");
   });
 });
